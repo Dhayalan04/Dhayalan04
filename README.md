@@ -1,21 +1,26 @@
+# 🦇 DHAYALAN B
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:111827,100:00E5FF&height=220&section=header&text=DHAYALAN%20B&fontSize=62&fontColor=00E5FF&animation=fadeIn&fontAlignY=36&desc=Computer%20Science%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18&descColor=FFFFFF"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:f5c518&height=200&section=header&text=DHAYALAN%20B&fontSize=55&fontColor=f5c518&animation=fadeIn&fontAlignY=35&desc=The%20Code%20Behind%20the%20Mask&descAlignY=60&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=00E5FF&center=true&vCenter=true&width=800&lines=Building+Ideas+Into+Digital+Experiences;Full+Stack+Development+%7C+IoT+%7C+AI;Learning+%E2%80%A2+Building+%E2%80%A2+Improving;Always+Exploring+New+Technologies+%E2%9A%A1"/>
+### 🦇 *"It's not who I am underneath, but what I do that defines me."*
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Dhayalan04&style=for-the-badge&color=00E5FF&label=PROFILE+VIEWS"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=1000&color=F5C518&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Full+Stack+Developer+in+Progress;Java+%7C+Python+%7C+JavaScript;Building+Projects+in+the+Shadows+%F0%9F%A6%87" />
 
 </div>
 
 ---
 
-## 💻 About Me
+## 🦇 WHO AM I?
 
 ```text
-> Full Stack Developer passionate about building modern web applications.
-> Currently exploring IoT, AI and Mobile App Development.
-> Interested in clean UI, performance and real-world solutions.
-> Always learning. Always building. Always improving.
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║   🦇 Name       : Dhayalan B                         ║
+║   🦇 Role       : CSE - IoT Student                  ║
+║   🦇 University  : K.S.R College of Engineering      ║
+║   🦇 Mission     : Become a powerful Software Dev     ║
+║   🦇 Base        : India 🇮🇳                          ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
