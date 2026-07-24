@@ -28,14 +28,13 @@
 │  SPECIALIZATION : SOFTWARE DEVELOPMENT                      │
 │  LOCATION       : INDIA 🇮🇳                                  │
 │                                                             │
-│  CURRENT MISSION                                               │
-│  ─────────────────────────────────────────────────────────  │
+│  CURRENT MISSION                                            │
+│  ─────────────────────────────────────────────────────────   │
 │  Become a highly skilled software engineer by building       │
 │  real-world applications and solving complex problems.       │
 │                                                             │
-│  SYSTEM STATUS  : ONLINE                                     │
-│  MOTIVATION     : 100%                                       │
-│  COFFEE LEVEL   : REQUIRED ☕                                │
+│  SYSTEM STATUS  : ONLINE                                    │                                      
+│  COFFEE LEVEL   : REQUIRED ☕                               │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
@@ -248,7 +247,7 @@ Current focus:
 <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=F5C518"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/dhayalan-b-394005328/">
 <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=F5C518"/>
 </a>
 
