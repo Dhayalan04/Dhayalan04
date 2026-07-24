@@ -23,18 +23,18 @@
 │                    BATCOMPUTER ONLINE                       │
 ├─────────────────────────────────────────────────────────────┤
 │                                                             │
-│  OPERATOR       : DHAYALAN B                                │
-│  DESIGNATION    : CSE - IoT STUDENT                         │
-│  SPECIALIZATION : SOFTWARE DEVELOPMENT                      │
-│  LOCATION       : INDIA 🇮🇳                                  │
-│                                                             │
-│  CURRENT MISSION                                            │
-│  ─────────────────────────────────────────────────────────   │
-│  Become a highly skilled software engineer by building       │
-│  real-world applications and solving complex problems.       │
-│                                                             │
-│  SYSTEM STATUS  : ONLINE                                    │                                      
-│  COFFEE LEVEL   : REQUIRED ☕                               │
+│  OPERATOR       : DHAYALAN B                                
+│  DESIGNATION    : CSE - IoT STUDENT                         
+│  SPECIALIZATION : SOFTWARE DEVELOPMENT                     
+│  LOCATION       : INDIA 🇮🇳                                  
+│                                                             
+│  CURRENT MISSION                                            
+│  ─────────────────────────────────────────────────────────   
+│  Become a highly skilled software engineer by building       
+│  real-world applications and solving complex problems.       
+│                                                             
+│  SYSTEM STATUS  : ONLINE                                                                          
+│  COFFEE LEVEL   : REQUIRED ☕                               
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
