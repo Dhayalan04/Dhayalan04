@@ -187,8 +187,6 @@ Current focus:
 
 # 📡 BAT-SIGNAL // GITHUB INTELLIGENCE
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dhayalan04&show_icons=true&hide_border=true&bg_color=050505&title_color=F5C518&icon_color=F5C518&text_color=FFFFFF&include_all_commits=true&count_private=true"/>
-
 <br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhayalan04&theme=dark&hide_border=true&background=050505&ring=F5C518&fire=F5C518&currStreakLabel=F5C518"/>
