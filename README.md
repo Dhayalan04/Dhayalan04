@@ -25,7 +25,7 @@
 │                                                             │
 │  OPERATOR       : DHAYALAN B                                
 │  DESIGNATION    : CSE - IoT STUDENT                         
-│  SPECIALIZATION : SOFTWARE DEVELOPMENT                     
+│  SPECIALIZATION : FULL STACK DEVELOPER                     
 │  LOCATION       : INDIA 🇮🇳                                  
 │                                                             
 │  CURRENT MISSION                                            
